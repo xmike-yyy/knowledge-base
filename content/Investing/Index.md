@@ -5,7 +5,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Long Term Investing
+    - Equities
   sceneTemplate: templates/Chapter.md
   ignoredFiles: []
 ---
